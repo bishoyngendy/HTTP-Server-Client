@@ -1,0 +1,2 @@
+GET /lion-king.jpg localhost 4444
+POST /example.png localhost 4444
